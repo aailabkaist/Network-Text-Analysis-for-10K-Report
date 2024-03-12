@@ -1,0 +1,9 @@
+numpy
+pandas
+tabulate
+networkx
+matplotlib
+matplotlib_venn
+tqdm
+seaborn
+python-louvain
